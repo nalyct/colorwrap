@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="154" viewBox="0 0 190 154" fill="none">
+  <defs><linearGradient id="sheet" x1="28" y1="22" x2="149" y2="130" gradientUnits="userSpaceOnUse"><stop stop-color="#F9FCF8" stop-opacity=".92"/><stop offset="1" stop-color="#C9DACB" stop-opacity=".66"/></linearGradient><linearGradient id="meat" x1="72" y1="44" x2="117" y2="105" gradientUnits="userSpaceOnUse"><stop stop-color="#DC9287"/><stop offset="1" stop-color="#A85555"/></linearGradient></defs>
+  <ellipse cx="96" cy="129" rx="73" ry="10" fill="#627C65" opacity=".08"/>
+  <g transform="rotate(-12 94 78)"><path d="M27 42 126 24 164 100 59 128 27 42Z" fill="url(#sheet)" stroke="#89A38E" stroke-width="1.5"/><path d="m35 49 91-17 30 64-94 25-27-72Z" fill="#E7F0E6" opacity=".6"/><path d="M71 65c13-17 39-21 55-9 13 10 15 32-1 43-19 15-47 11-60-2-11-11-7-24 6-32Z" fill="url(#meat)" stroke="#B66B66" stroke-width="1.8"/><path d="M75 69c17 2 20 12 37 12M91 56c-7 12-6 19-3 26m28-20c-9 8-12 20-13 33M67 85c11-3 22-2 36 12" stroke="#F3CAC2" stroke-width="3.5" stroke-linecap="round" opacity=".8"/><path d="m32 42 129 58m-32-76L59 128" stroke="white" stroke-width="2" opacity=".54"/></g>
+  <path d="M23 37c12-19 34-19 44-16" stroke="#829F86" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 7"/>
+  <path d="m62 16 7 4-7 4" stroke="#829F86" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
